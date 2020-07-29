@@ -1,0 +1,7 @@
+D:\Impact\WebService\WebService\bin\WebService.dll.config
+D:\Impact\WebService\WebService\bin\WebService.dll
+D:\Impact\WebService\WebService\bin\WebService.pdb
+D:\Impact\WebService\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+D:\Impact\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+D:\Impact\WebService\WebService\obj\Debug\WebService.dll
+D:\Impact\WebService\WebService\obj\Debug\WebService.pdb
